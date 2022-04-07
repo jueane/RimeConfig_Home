@@ -2,9 +2,9 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Wed Nov 18 00:52:36 2020"
+  modified_time: "Thu Apr  7 15:53:39 2022"
   rime_version: 1.5.3
 patch:
-  "style/color_scheme": dark_temple
-  "style/horizontal": true
+  "style/color_scheme": lost_temple
   "style/display_tray_icon": true
+  "style/horizontal": false
