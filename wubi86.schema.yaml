@@ -48,9 +48,8 @@ engine:
 
 speller:
   delimiter: " ;'"
-  #max_code_length: 4
+  max_code_length: 4
   auto_select: true  #自动上屏
-  max_code_length: 4  #最大码长
   auto_select_unique_candidate: true  #无重码自动上屏
 
 translator:
