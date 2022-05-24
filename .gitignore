@@ -1,4 +1,4 @@
 build
 sync
-*.userdb*
-user.yaml
+*.userdb*/
+user*.yaml
