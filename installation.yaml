@@ -1,7 +1,7 @@
 distribution_code_name: Weasel
 distribution_name: "小狼毫"
-distribution_version: 0.14.3
+distribution_version: 0.15.0.0
 install_time: "Sat Oct 24 01:16:57 2020"
-installation_id: "sync_main"
-#sync_dir: 'D:\temp\OneDrive\Sync\configs\input\RimeSync'
-rime_version: 1.5.3
+installation_id: sync_main
+rime_version: 1.8.5
+update_time: "Mon Jun 12 01:17:20 2023"
